@@ -1,0 +1,118 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px; 
+    line-height: 1.5625; 
+}
+
+h2 {
+    font-family:'Bebas Neue', sans-serif;
+    margin: 10px 0;
+    padding-top: 0;
+    line-height: 0,9; 
+    font-size: 79px; 
+}
+
+h3 {
+    font-size: 19px; 
+    margin-bottom: 10px;
+}
+
+   
+
+.pagebanner {
+    height: 120px; 
+    max-width: 100%;
+    background: #fff;
+    margin: 60px 0 0 0;
+    display: flex; 
+    justify-content: space-around;
+    vertical-align: middle;
+    font-size: 80px; 
+    
+    
+
+}
+#logo {
+    text-decoration: none; 
+    color: #000; 
+    vertical-align: middle;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 35px;
+}
+
+.searchbar {
+    text-decoration: none; 
+    color: #000; 
+    vertical-align: middle;
+    font-family: 'Bebas Neue', sans-serif;
+}
+
+
+.starting_footer {
+    background: #383a46;
+    background-size: cover; 
+    color: #000;   
+    max-width: 100%;
+    padding-bottom: 10px;
+    
+}
+
+#heading {
+    width: 1100px; 
+    
+}
+
+.welcome_paragraph {
+     color: #fff; 
+    width: 600px; 
+    margin: 10px auto; 
+
+}
+
+#mobile_bg {
+    height: 1000px;
+    background-image: url("stoicism.jpeg");
+    background-size: cover;
+    background-position: center;  
+    margin-bottom: 60px; 
+    display: block; 
+}
+
+.article_stoicism {
+    width: 600px; 
+    margin: 10px auto; 
+
+}
+    
+.quote_bar {
+    background: #e6e6e6;
+    padding-top: 32px;
+    padding-bottom: 52px;  
+    text-align: center; 
+    vertical-align: center; 
+    
+    
+}   
+    
+.container {
+    font-size: 23px; 
+    color:#000; 
+}
+
+.advice_list {
+    line-height: 2; 
+}
+
+.suggestions {
+     text-decoration: none; 
+    color: #000; 
+    border-bottom: 1px solid #000;
+    display: inline-block; 
+    padding: 0;
+    margin-bottom: 15px; 
+    
+}
+.challenge_text {
+    width: 600px; 
+     
+}
